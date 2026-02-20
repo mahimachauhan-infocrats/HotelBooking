@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HotelBooking/HotelBooking.csproj" />
+  <Project Path="HotelBooking_UtilitiesLibrary/HotelBooking_UtilitiesLibrary.csproj" />
+</Solution>
