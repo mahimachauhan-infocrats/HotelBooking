@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace HotelBooking.Utilities
+namespace HotelBooking.Services
 {
     public sealed class PaymentProcessor
     {
